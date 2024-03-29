@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\emirh\Desktop\KOC\2.sýnýf\2.dönem\COMP132PROJECT\Emirhan-Senir\.metadata\.plugins\org.eclipse.jdt.core
+449384428.index
+1865797976.index
+3501714628.index
