@@ -1,8 +1,8 @@
-### PhotoCloud App
+# PhotoCloud App
 
-## Part 1
+This app is a photo cloud app which contains users, posts with photographs and captions, info of users similar to instagram.
 
-General Demo Information:
+## General Demo Information:
 
 - Information about each user (Username,Password,User Type)
 1. Admin, Admin, Admin
@@ -18,9 +18,12 @@ General Demo Information:
 These are current users (one of them is admin user which have permission to do everything he/she
 want. He/She can remove everyone’s photos, comments and also he/she can change people’s
 profile informations) and all of them have more personal informations and they are stored in
-users.txt file in Project folder. They also have unique profile photos for each.1
-Application usage information (In that part, describe how to use your application. You can add
-screenshots of the required steps that a user should follow.)
+users.txt file in Project folder. They also have unique profile photos for each.
+
+There are 4 different User Types for each account (Free, Professional, Hobbyist, Admin). All User Types have different
+permissions such as editing photographs while uploading.
+
+## Application usage information:
 
 ● To start the application, you need to run the main method stored in the Main.java which stored
 in “./src/main/Main”.
@@ -56,9 +59,7 @@ description if you want, add some effects if you want also and press post.
     button to save changes. There is an example of Hobbyist User adding effects to his photo:
 
 
-## Part 2
-
-Project Design Description:
+## Project Design Description:
 
 ● Files and Contents:
 In application’s code, there are 4 packages. Here are their names and their contents:
