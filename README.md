@@ -28,8 +28,8 @@ permissions such as adding effects to photographs while uploading.
 ● To start the application, you need to run the main method stored in the Main.java which stored
 in “./src/main/Main”.
 
-● When you run the main code, you will see the login page. As shown in this photo, there are 2
-options which you can login with your username and password or go to register page.
+● When you run the main code, you will see the login page. There are 2 options which you can login 
+with your username and password or go to register page.
 
 ● If you are a new user, you need to register. So, when you click register button you will see a
 page requesting some personal info and also username and password which you will use to
