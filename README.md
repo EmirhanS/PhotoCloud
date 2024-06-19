@@ -21,7 +21,7 @@ profile informations) and all of them have more personal informations and they a
 users.txt file in Project folder. They also have unique profile photos for each.
 
 There are 4 different User Types for each account (Free, Professional, Hobbyist, Admin). All User Types have different
-permissions such as editing photographs while uploading.
+permissions such as adding effects to photographs while uploading.
 
 ## Application usage information:
 
@@ -31,7 +31,7 @@ in “./src/main/Main”.
 ● When you run the main code, you will see the login page. As shown in this photo, there are 2
 options which you can login with your username and password or go to register page.
 
-If you are a new user, you need to register. So, when you click register button you will see a
+● If you are a new user, you need to register. So, when you click register button you will see a
 page requesting some personal info and also username and password which you will use to
 log in. And if you accidently go into this page, you can go back to login page with login button
 whenever you want.
