@@ -59,6 +59,7 @@ description if you want, add some effects if you want also and press post.
 ## Part 2
 
 Project Design Description:
+
 ● Files and Contents:
 In application’s code, there are 4 packages. Here are their names and their contents:
 
